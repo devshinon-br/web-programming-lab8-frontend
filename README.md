@@ -1,4 +1,13 @@
-# frontend
+# The project lab8
+## ***UFU college activity***
+### This project is finished
+
+The purpose of this application is to create a simple web application based on the Vue.js.
+
+To put this project into practice it was used:
+- *HTML*,
+- *JS*,
+- *CSS*.
 
 ## Project setup
 ```
