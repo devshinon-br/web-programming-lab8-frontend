@@ -1,4 +1,4 @@
-# The project lab8
+# The project lab8 - Front-end
 ## ***UFU college activity***
 ### This project is finished
 
